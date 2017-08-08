@@ -174,7 +174,7 @@ const materials  = [
 	}, {
 		name: "battery",
 		source: "crafting",
-		time: "20",
+		time: "120",
 		value: "200",
 		toMake: [
 			{
@@ -288,6 +288,7 @@ const materials  = [
 		name: "greenLaser",
 		source: "crafting",
 		time: "20",
+		batch: "5",
 		value: "400",
 		toMake: [
 			{
@@ -318,7 +319,7 @@ const materials  = [
 	}, {
 		name: "motherboard",
 		source: "crafting",
-		time: "30",
+		time: "1800",
 		value: "17000",
 		toMake: [
 			{
@@ -335,7 +336,7 @@ const materials  = [
 	}, {
 		name: "solidPropellant",
 		source: "crafting",
-		time: "20",
+		time: "1200",
 		value: "27000",
 		toMake: [
 			{
@@ -474,7 +475,7 @@ const materials  = [
 	}, {
 		name: "rubber",
 		source: "chemistry",
-		time: "900",
+		time: "1800",
 		value: "4000",
 		batch: "2",
 		toMake: [
